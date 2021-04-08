@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fun-with-coding
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on oper source
